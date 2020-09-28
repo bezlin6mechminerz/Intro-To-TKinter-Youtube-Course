@@ -1,5 +1,5 @@
-from tkinter import *
-from PIL import ImageTk,Image
+from tkinter import * #importing tkinter library
+from PIL import ImageTk,Image # importing imaging library
 
 root = Tk()
 root.title('Codemy.com Image Viewer')
